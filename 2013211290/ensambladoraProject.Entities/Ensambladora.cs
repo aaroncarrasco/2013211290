@@ -44,7 +44,7 @@ personalizados. El reporte sólo debe contener el tipo de auto y el numero de ch
         {
             if (_Carros.Count == 6)
                 return;
-            volante.NumSerie = "volante-"; //me tiene que salir esta vaina amor, anda come algo mas
+            volante.NumSerie = "volante-"; 
             parabrisas.NumSerie = "parabrisas-";
              //int numAsientos=0;
              var tipoCarro = TipoCarro.automovil.ToString();
