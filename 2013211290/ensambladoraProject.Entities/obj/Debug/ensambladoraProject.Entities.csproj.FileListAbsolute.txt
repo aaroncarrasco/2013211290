@@ -1,0 +1,11 @@
+C:\Users\guada\Documents\Visual Studio 2017\Projects\2013106853\ensambladoraProject.Entities\obj\Debug\ensambladoraProject.Entities.csprojResolveAssemblyReference.cache
+C:\Users\guada\Documents\Visual Studio 2017\Projects\2013106853\ensambladoraProject.Entities\bin\Debug\ensambladoraProject.Entities.dll
+C:\Users\guada\Documents\Visual Studio 2017\Projects\2013106853\ensambladoraProject.Entities\bin\Debug\ensambladoraProject.Entities.pdb
+C:\Users\guada\Documents\Visual Studio 2017\Projects\2013106853\ensambladoraProject.Entities\obj\Debug\ensambladoraProject.Entities.dll
+C:\Users\guada\Documents\Visual Studio 2017\Projects\2013106853\ensambladoraProject.Entities\obj\Debug\ensambladoraProject.Entities.pdb
+C:\Users\Aaron\Desktop\Aaron\USMP\Progra\2013106853\ensambladoraProject.Entities\obj\Debug\ensambladoraProject.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Aaron\Desktop\Aaron\USMP\Progra\2013106853\ensambladoraProject.Entities\obj\Debug\ensambladoraProject.Entities.dll
+C:\Users\Aaron\Desktop\Aaron\USMP\Progra\2013106853\ensambladoraProject.Entities\obj\Debug\ensambladoraProject.Entities.pdb
+C:\Users\Aaron\Desktop\2013106853\ensambladoraProject.Entities\obj\Debug\ensambladoraProject.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Aaron\Desktop\2013106853\ensambladoraProject.Entities\obj\Debug\ensambladoraProject.Entities.dll
+C:\Users\Aaron\Desktop\2013106853\ensambladoraProject.Entities\obj\Debug\ensambladoraProject.Entities.pdb
