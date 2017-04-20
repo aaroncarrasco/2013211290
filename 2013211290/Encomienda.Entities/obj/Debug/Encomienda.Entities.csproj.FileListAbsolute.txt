@@ -1,0 +1,6 @@
+C:\Users\Aaron\Desktop\Aaron\USMP\Progra\Proyecto\Ensambladora\Encomienda.Entities\obj\Debug\Encomienda.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Aaron\Desktop\Aaron\USMP\Progra\Proyecto\Ensambladora\Encomienda.Entities\bin\Debug\Encomienda.Entities.exe.config
+C:\Users\Aaron\Desktop\Aaron\USMP\Progra\Proyecto\Ensambladora\Encomienda.Entities\bin\Debug\Encomienda.Entities.exe
+C:\Users\Aaron\Desktop\Aaron\USMP\Progra\Proyecto\Ensambladora\Encomienda.Entities\bin\Debug\Encomienda.Entities.pdb
+C:\Users\Aaron\Desktop\Aaron\USMP\Progra\Proyecto\Ensambladora\Encomienda.Entities\obj\Debug\Encomienda.Entities.exe
+C:\Users\Aaron\Desktop\Aaron\USMP\Progra\Proyecto\Ensambladora\Encomienda.Entities\obj\Debug\Encomienda.Entities.pdb

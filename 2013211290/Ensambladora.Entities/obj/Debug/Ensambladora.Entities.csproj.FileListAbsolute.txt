@@ -1,0 +1,4 @@
+c:\users\clase\documents\visual studio 2013\Projects\Ensambladora\Ensambladora.Entities\bin\Debug\Ensambladora.Entities.dll
+c:\users\clase\documents\visual studio 2013\Projects\Ensambladora\Ensambladora.Entities\bin\Debug\Ensambladora.Entities.pdb
+c:\users\clase\documents\visual studio 2013\Projects\Ensambladora\Ensambladora.Entities\obj\Debug\Ensambladora.Entities.dll
+c:\users\clase\documents\visual studio 2013\Projects\Ensambladora\Ensambladora.Entities\obj\Debug\Ensambladora.Entities.pdb
